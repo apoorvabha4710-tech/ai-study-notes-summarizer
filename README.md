@@ -1,20 +1,21 @@
-# 📚 AI Study Notes Summarizer
+# AI Study Notes Summarizer
 
-An AI-powered web application that turns long study notes into simple, easy-to-understand summaries.
+An AI-powered application that transforms long study notes into shorter, easier-to-understand summaries.
+
+**🚀 Live Demo:** [Try the app](https://apoorvabha4710-tech-ai-study-notes-summarizer-app-iykc5p.streamlit.app/)
 
 ## Features
 
-- Generate summaries using a locally running AI model.
-- Choose short, medium, or long summaries.
-- Download summaries as text files.
-- Simple, user-friendly interface built with Streamlit.
+- Summarizes long study notes using AI.
+- Offers short, medium, and long summary options.
+- Lets users download summaries as text files.
+- Provides a simple, beginner-friendly interface.
 
-## Technologies Used
+## Tech Stack
 
 - Python
 - Streamlit
 - Hugging Face Transformers
-- PyTorch
 - DistilBART summarization model
 
 ## Installation
