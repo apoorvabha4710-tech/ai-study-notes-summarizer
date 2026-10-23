@@ -42,3 +42,7 @@ The first run downloads the AI model, so an internet connection is required. Aft
 2. Choose a summary length.
 3. Click **Summarize Notes**.
 4. Download your summary as a text file.
+
+## App Screenshot
+
+![AI Study Notes Summarizer](app-screenshot.png)
