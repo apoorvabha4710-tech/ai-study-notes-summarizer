@@ -6,10 +6,13 @@ An AI-powered application that transforms long study notes into shorter, easier-
 
 ## Features
 
-- Summarizes long study notes using AI.
-- Offers short, medium, and long summary options.
-- Lets users download summaries as text files.
-- Provides a simple, beginner-friendly interface.
+- Summarizes study notes using an AI model
+- Upload notes from TXT files
+- Upload notes from PDF files
+- Paste notes directly into the app
+- Choose short, medium, or long summaries
+- Download summaries as text files
+- Simple, user-friendly Streamlit interface
 
 ## Tech Stack
 
